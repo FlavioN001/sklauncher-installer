@@ -10,9 +10,9 @@ Currently, a [Flatpak](https://flathub.org/) for [SKlauncher](https://skmedix.pl
 
 # How to use:
 
-To install, [download the installer script](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FlavioN001/sklauncher-installer/blob/main/Instalador%20SKlauncher.sh), make it executable as an application and double click on it to run.
+To install, [download the installer script](https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FFlavioN001%2Fsklauncher-installer%2F&filename=Instalador+SKlauncher.sh), make it executable as an application and double click on it to run.
 
-To uninstall, [download the uninstaller script](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FlavioN001/sklauncher-installer/blob/main/Desinstalar%20SKlauncher.sh), make it executable as an application and double click on it to run.
+To uninstall, [download the uninstaller script](https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FFlavioN001%2Fsklauncher-installer%2F&filename=Desinstalar+SKlauncher.sh), make it executable as an application and double click on it to run.
 
 If any error occurs, try runing the script on a termnal and maybe try fixing it, it's a very simple script!
 
