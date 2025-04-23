@@ -12,7 +12,7 @@ Currently, a [Flatpak](https://flathub.org/) for [SKlauncher](https://skmedix.pl
 
 To install, [download the installer script](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FlavioN001/sklauncher-installer/blob/main/Instalador%20SKlauncher.sh), make it executable as an application and double click on it to run.
 
-To uninstall,[download the uninstaller script](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FlavioN001/sklauncher-installer/blob/main/Desinstalar%20SKlauncher.sh), make it executable as an application and double click on it to run.
+To uninstall, [download the uninstaller script](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FlavioN001/sklauncher-installer/blob/main/Desinstalar%20SKlauncher.sh), make it executable as an application and double click on it to run.
 
 If any error occurs, try runing the script on a termnal and maybe try fixing it, it's a very simple script!
 If there are any easy fixes i could make, maybe upload a pull request
