@@ -1,16 +1,17 @@
 #!/bin/bash
 mkdir ~/.sklauncher
 mkdir ~/.sklauncher/temp
+sudo dnf install --skip-unavailable -y git java-21-openjdk
 git clone https://github.com/FlavioN001/sklauncher-installer/ ~/.sklauncher/temp
 cd ~/.sklauncher/temp
-sudo chmod +x SKlauncher-*
-cp SKlauncher-* ../
-cp SKlauncher.desktop ~/.local/share/applications
+cp SKlauncher-3.2.12.jar ../
+cp logo.png ../
+sudo cp sklauncher.desktop /usr/share/applications
 cd ..
-rm temp
+sudo rm -r temp
 
 echo
 echo
-echo "SKlauncher instalado com sucesso!"
+echo "SKlauncher instalado com sucesso! <3"
 echo
 echo
