@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir ~/.sklauncher
 mkdir ~/.sklauncher/temp
 git clone https://github.com/FlavioN001/sklauncher-installer/ ~/.sklauncher/temp
