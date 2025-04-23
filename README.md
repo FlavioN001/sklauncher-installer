@@ -1,5 +1,6 @@
 # sklauncher-installer
-Script for installing sklauncher on fedora linux workstation systems
+
+How to use:
 
 To install , run the Instalador SKlauncher.sh script
 
