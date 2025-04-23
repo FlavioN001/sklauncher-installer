@@ -4,7 +4,7 @@ This is an instalation script for installing [SKlauncher](https://skmedix.pl/) (
 
 
 # Why does this even exists?
-Currently, a [Flatpak](https://flathub.org/) for [SKlauncher](https://skmedix.pl/), my favourite Minecraft launcher,still [isn't available](https://skmedix.pl/downloads#linux) as it's still in development by the [SKlauncher group](https://twitter.com/sklaunch). So there's no easy way to install this Minecraft launcher on Linux without opening a terminal. The easiest way to install it is if you're using [Arch Linux](https://archlinux.org/) because there is an [AUR package](https://aur.archlinux.org/packages/sklauncher-bin) for it, but sadly this also isn't available on other distros like [Fedora](https://fedoraproject.org/), that is my second favourite distro.
+Currently, a [Flatpak](https://flathub.org/) for [SKlauncher](https://skmedix.pl/), my favourite Minecraft launcher, still [isn't available](https://skmedix.pl/downloads#linux) as it's still in development by the [SKlauncher group](https://twitter.com/sklaunch). So there's no easy way to install this Minecraft launcher on Linux without opening a terminal. The easiest way to install it is if you're using [Arch Linux](https://archlinux.org/) because there is an [AUR package](https://aur.archlinux.org/packages/sklauncher-bin) for it, but sadly this also isn't available on other distros like [Fedora](https://fedoraproject.org/), that is my second favourite distro.
 
 
 
