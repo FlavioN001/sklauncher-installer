@@ -1,3 +1,8 @@
+#CURRENTLY ON DEVELOPMENT!
+(works on the terminal, still working on making it gui-only)
+
+
+
 # SKlauncher installer for Fedora
 This is an instalation script for installing [SKlauncher](https://skmedix.pl/) (a minecraft launcher) on linux. Currently, it only works on [Red Hat](https://www.redhat.com/en) based distros like [Fedora](https://fedoraproject.org/), which is the one I tested it on, as it is my second distro of choice.
 
