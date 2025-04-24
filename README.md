@@ -1,4 +1,4 @@
-#CURRENTLY ON DEVELOPMENT!
+# CURRENTLY ON DEVELOPMENT!
 (works on the terminal, still working on making it gui-only)
 
 
